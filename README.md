@@ -5,7 +5,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-📕[Clique aqui para ler o artigo]([https://github.com/Nunes982/prompts-para-artigo-generado-por-ia.git](https://web.dio.me/articles/desenvolvimento-android-descomplicado-um-guia-para-iniciantes?back=%2Farticles&page=1&order=oldest))
+📕[Clique aqui para ler o artigo](https://web.dio.me/articles/desenvolvimento-android-descomplicado-um-guia-para-iniciantes?back=%2Farticles&page=1&order=oldest)
 
 ## 💻 Tecnologias utilizadas no projeto
 
