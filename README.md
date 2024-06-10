@@ -3,16 +3,9 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me).
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
-
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href=" https://github.com/Nunes982/prompts-para-artigo-generado-por-ia.git
-" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href=" https://github.com/Nunes982/prompts-para-artigo-generado-por-ia.git"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -28,24 +21,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie crie 10 titulos para um artigo sobre um road map android.
-| conteúdo | comporte-se como um escritor de artigos tech desenvolvedor android, e escreva um artigo usando as regras abaixo.
-
-{Regras}
-> No máximo 5 linhas por bloco de expliacação
-> Me explique de maneira informal e como eu fosse uma criança de 10 anos 
-> Os blocos que serão criados estão abaixo:
-- Fundamentos de Programação
-- Ambiente de Desenvolvimento
-- Fundamentos do Desenvolvimento Android
-- UI/UX Design
-- Manipulação de Dados
-- Arquitetura de Aplicações
-- Injeção de Dependências
-- Testes
-- Bibliotecas Populares
-- Publicação de Aplicativos
-- Faça um call to action para minhas redes sociais
-- Coloque 3 hashtags que façam sentido |
+| conteúdo | Crie 10 conteudos para um road map para um desenvolvedor android iniciante |
 
 
 Lexica.art：
